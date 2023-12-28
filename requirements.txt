@@ -1,6 +1,8 @@
 flask
 gunicorn
 
+flask-sqlalchemy
+
 pytest
 pytest-flask
 pytest-cov
